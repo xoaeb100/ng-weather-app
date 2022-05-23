@@ -4,7 +4,7 @@
   --blue-2: #4c52ad;
   --yellow-1: #fac742;
   --white: #fff;
-  --grey-1: #ededed;
+  --grey-1: #ffffff;
   --shadow-dark: rgba(0, 0, 0, 0.3);
   --shadow-light: rgba(255, 255, 255, 0.1);
 }
@@ -146,6 +146,6 @@ body {
   border-radius: 20px;
   padding: 1em;
   color: var(--grey-1);
-  font-size: 0.8em;
+  font-size: 1em;
   text-align: center;
 }
